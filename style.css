@@ -13,6 +13,9 @@ li {
 ul {
     padding-left: 0px;
 }
+a {
+    text-decoration: none;
+}
     
 .green {
     background-color: chartreuse;
