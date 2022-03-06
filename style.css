@@ -1,0 +1,52 @@
+div {
+    border:solid black;
+}
+.heading {
+    background-color: aquamarine;
+    padding-left: 10px;
+}
+li {
+    display: inline;
+    padding-right: 10px;
+
+}
+ul {
+    padding-left: 0px;
+}
+    
+.green {
+    background-color: chartreuse;
+    padding-left: 10px;
+}
+.grey {
+    background-color: grey;
+    padding-left: 10px;
+}
+.crimzon {
+    background-color: crimson;
+    padding-left: 10px;
+}
+.yellow {
+    background-color: yellow;
+    padding-left: 10px;
+}
+.blue {
+    background-color: blue;
+    padding-left: 10px;
+}
+.purple {
+    background-color: purple;
+    padding-left: 10px;
+}
+.s1 {
+    color: blueviolet;
+    padding-left: 10px;
+}
+.s2 {
+    color: chartreuse;
+    padding-left: 10px;
+}
+.s3 {
+    color: darkblue;
+    padding-left: 10px;
+}
